@@ -18,7 +18,7 @@ A desktop tool that automates crafting macro sequences (e.g. for FFXIV). Define 
 1. Make sure you have **Python 3.10+** installed.
 2. Install dependencies:
    ```
-   pip install pydantic pynput
+   pip install -r requirements.txt
    ```
 3. Run the app:
    ```
