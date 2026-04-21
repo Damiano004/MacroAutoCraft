@@ -7,7 +7,7 @@ from models import MacroSet, AutomatedMacro
 import threading
 
 INTERACTION_KEY = 'h'
-WAIT_TIME = 1
+WAIT_TIME = 10
 KEYBOARD = Controller()
 
 pause_event: threading.Event = threading.Event()
