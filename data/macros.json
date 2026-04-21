@@ -1,0 +1,30 @@
+{
+    "macroDictionary": [
+        {
+            "difficulty": "12000",
+            "macros": [
+                {
+                    "keybind": "1",
+                    "duration": 12
+                },
+                {
+                    "keybind": "2",
+                    "duration": 20
+                }
+            ]
+        },
+        {
+            "difficulty": "1",
+            "macros": [
+                {
+                    "keybind": "3",
+                    "duration": 1
+                },
+                {
+                    "keybind": "4",
+                    "duration": 1
+                }
+            ]
+        }
+    ]
+}
